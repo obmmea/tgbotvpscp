@@ -17,7 +17,7 @@ tomlkit
 python-dateutil
 Pillow
 requests
-ifaddr
+netifaces
 wheel>=0.46.2
 setuptools
 asyncssh
